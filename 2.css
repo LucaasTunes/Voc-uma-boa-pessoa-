@@ -1,0 +1,10 @@
+body{
+    background-image: linear-gradient(to bottom,white,black);
+    display: flex;
+    -ms-flex-align: center;
+}
+#buttlegal{
+    font-size: 30px;
+    width: 800px;
+    height: auto;
+}
